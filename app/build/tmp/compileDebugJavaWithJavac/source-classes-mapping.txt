@@ -1,0 +1,6 @@
+com/example/imgurapp/databinding/ActivityMainBinding.java
+ com.example.imgurapp.databinding.ActivityMainBinding
+com/example/imgurapp/DataBindingTriggerClass.java
+ com.example.imgurapp.DataBindingTriggerClass
+com/example/imgurapp/BuildConfig.java
+ com.example.imgurapp.BuildConfig
